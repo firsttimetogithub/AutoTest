@@ -1,0 +1,30 @@
+2018-01-17 10:28:52,162 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-17 10:28:52,163 - BrowserEngine - INFO - The test server url is: http://ehrtest.source3g.com/auth//#/login?ehr
+2018-01-17 10:28:56,378 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-17 10:29:01,391 - BrowserEngine - INFO - Open url: http://ehrtest.source3g.com/auth//#/login?ehr
+2018-01-17 10:29:01,425 - BrowserEngine - INFO - Maximize the current window
+2018-01-17 10:29:01,430 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-17 10:29:01,473 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-17 10:29:01,473 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-17 10:29:01,517 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-17 10:29:01,517 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-17 10:29:01,540 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-17 10:29:01,540 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-17 10:29:01,574 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-17 10:29:01,574 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-17 10:29:01,593 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-17 10:29:01,593 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-17 10:29:01,838 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-17 10:29:01,838 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-17 10:29:06,936 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/div 
+2018-01-17 10:29:06,936 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/div 
+2018-01-17 10:29:07,496 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-17 10:29:07,496 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-17 10:29:10,044 - BasePage - INFO - Had find the element ' 花名册导入 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/ul/li[1] 
+2018-01-17 10:29:10,044 - BasePage - INFO - Had find the element ' 花名册导入 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/ul/li[1] 
+2018-01-17 10:29:10,548 - BasePage - INFO - The element ' 花名册导入 ' was clicked.
+2018-01-17 10:29:10,548 - BasePage - INFO - The element ' 花名册导入 ' was clicked.
+2018-01-17 10:29:20,911 - BasePage - INFO - Had find the element ' 点击 ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/a 
+2018-01-17 10:29:20,911 - BasePage - INFO - Had find the element ' 点击 ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/a 
+2018-01-17 10:29:26,160 - BasePage - INFO - The element ' 点击 ' was clicked.
+2018-01-17 10:29:26,160 - BasePage - INFO - The element ' 点击 ' was clicked.

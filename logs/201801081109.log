@@ -1,0 +1,38 @@
+2018-01-08 11:09:40,707 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-08 11:09:40,707 - BrowserEngine - INFO - The test server url is: http://localhost:8090/#/login?ehr
+2018-01-08 11:09:44,822 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-08 11:09:45,440 - BrowserEngine - INFO - Open url: http://localhost:8090/#/login?ehr
+2018-01-08 11:09:45,466 - BrowserEngine - INFO - Maximize the current window
+2018-01-08 11:09:45,470 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-08 11:09:45,506 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-08 11:09:45,506 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-08 11:09:45,563 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-08 11:09:45,563 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-08 11:09:45,606 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-08 11:09:45,606 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-08 11:09:45,660 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-08 11:09:45,660 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-08 11:09:45,680 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-08 11:09:45,680 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-08 11:09:45,912 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-08 11:09:45,912 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-08 11:09:49,272 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/div 
+2018-01-08 11:09:49,272 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/div 
+2018-01-08 11:09:49,523 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-08 11:09:49,523 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-08 11:09:49,555 - BasePage - INFO - Had find the element ' 花名册导入 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/ul/li[1] 
+2018-01-08 11:09:49,555 - BasePage - INFO - Had find the element ' 花名册导入 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[4]/ul/li[1] 
+2018-01-08 11:09:50,555 - BasePage - INFO - The element ' 花名册导入 ' was clicked.
+2018-01-08 11:09:50,555 - BasePage - INFO - The element ' 花名册导入 ' was clicked.
+2018-01-08 11:09:50,586 - BasePage - INFO - Had find the element ' 点击 ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/a 
+2018-01-08 11:09:50,586 - BasePage - INFO - Had find the element ' 点击 ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/a 
+2018-01-08 11:09:55,825 - BasePage - INFO - The element ' 点击 ' was clicked.
+2018-01-08 11:09:55,825 - BasePage - INFO - The element ' 点击 ' was clicked.
+2018-01-08 11:09:55,837 - BasePage - INFO - table.row_values() ['序号', '归属', '工号', '姓名', '拼音', '性别', '民族', '政治面貌', '婚姻\n状况', '入职日期', '转正日期', '职位', '1级部门', '2级部门', '3级部门', '在职状态', '手机号码', 'QQ号码', '紧急\n联系人', '联系电话', '毕业时间', '毕业院校', '专业', '学历', '身份证号码', '出生日期', '生日月份', '年龄', '户籍性质', '身份证地址', '现住址', '个人银行账户', '个人开户行', '司龄', '驻地城市', '归属省', '省内/省外', '社保缴纳详情', '公积金缴纳详情', '离职日期', '在职时长', '离职申请原因', '离职面谈主要原因', '离职面谈详情', '是否在试用期内', '离职意愿性', '离职手续办理', '备注1', '备注2', '备注3']
+2018-01-08 11:09:55,837 - BasePage - INFO - table.row_values() ['序号', '归属', '工号', '姓名', '拼音', '性别', '民族', '政治面貌', '婚姻\n状况', '入职日期', '转正日期', '职位', '1级部门', '2级部门', '3级部门', '在职状态', '手机号码', 'QQ号码', '紧急\n联系人', '联系电话', '毕业时间', '毕业院校', '专业', '学历', '身份证号码', '出生日期', '生日月份', '年龄', '户籍性质', '身份证地址', '现住址', '个人银行账户', '个人开户行', '司龄', '驻地城市', '归属省', '省内/省外', '社保缴纳详情', '公积金缴纳详情', '离职日期', '在职时长', '离职申请原因', '离职面谈主要原因', '离职面谈详情', '是否在试用期内', '离职意愿性', '离职手续办理', '备注1', '备注2', '备注3']
+2018-01-08 11:09:55,838 - BasePage - INFO - table.row_values() [1.0, '国盛', 'GS0744', '小李', 'qingtian', '男', '汉', '群众', '已婚 ', 42998.0, 43089.0, 'HRBP', '人力行政部', '人力行政部', 'ERP项目组', '未转正', 18210184572.0, 413894872.0, '姚尧', 13488783350.0, 40695.0, '电子科技大学成都学院', '网络安全', '本科', '511302198711230010', 32104.0, 11.0, 30.0, '城镇', '成都市锦江区橡树林路66号7栋1单元2305', '成都市锦江区橡树林路66号7栋1单元2305', '6236683800000151077', '', 0.0, '成都', '四川', '省内', '', '', '', '', '', '', '', '', '', '', '', '', '']
+2018-01-08 11:09:55,838 - BasePage - INFO - table.row_values() [1.0, '国盛', 'GS0744', '小李', 'qingtian', '男', '汉', '群众', '已婚 ', 42998.0, 43089.0, 'HRBP', '人力行政部', '人力行政部', 'ERP项目组', '未转正', 18210184572.0, 413894872.0, '姚尧', 13488783350.0, 40695.0, '电子科技大学成都学院', '网络安全', '本科', '511302198711230010', 32104.0, 11.0, 30.0, '城镇', '成都市锦江区橡树林路66号7栋1单元2305', '成都市锦江区橡树林路66号7栋1单元2305', '6236683800000151077', '', 0.0, '成都', '四川', '省内', '', '', '', '', '', '', '', '', '', '', '', '', '']
+2018-01-08 11:09:55,838 - BasePage - INFO - table.row_values() [2.0, '旺小宝', 'GS0745', '小刘', 'qingtian', '女', '土家', '团员', '已婚 ', 42998.0, 43089.0, '销售经理', '地产销售部', '地产广州', 'ERP项目组', '已转正', 18210184572.0, 413894872.0, '姚尧', 13488783350.0, 40695.0, '电子科技大学成都学院', '网络安全', '大专', '511302198711230010', 32104.0, 11.0, 30.0, '农村', '成都市锦江区橡树林路66号7栋1单元2305', '成都市锦江区橡树林路66号7栋1单元2305', '6236683800000151077', '', 0.0, '成都', '四川', '省外', '', '', '', '', '', '', '', '', '', '', '', '', '']
+2018-01-08 11:09:55,838 - BasePage - INFO - table.row_values() [2.0, '旺小宝', 'GS0745', '小刘', 'qingtian', '女', '土家', '团员', '已婚 ', 42998.0, 43089.0, '销售经理', '地产销售部', '地产广州', 'ERP项目组', '已转正', 18210184572.0, 413894872.0, '姚尧', 13488783350.0, 40695.0, '电子科技大学成都学院', '网络安全', '大专', '511302198711230010', 32104.0, 11.0, 30.0, '农村', '成都市锦江区橡树林路66号7栋1单元2305', '成都市锦江区橡树林路66号7栋1单元2305', '6236683800000151077', '', 0.0, '成都', '四川', '省外', '', '', '', '', '', '', '', '', '', '', '', '', '']
+2018-01-08 11:09:55,842 - BasePage - INFO - table.row_values() [3.0, '向源', 'GS0746', '小洋', 'qingtian', '男', '汉', '党员', '未婚', 42998.0, '', '架构师', '软件研发部', '软件研发部', 'ERP项目组', '已离职', 18210184572.0, 413894872.0, '姚尧', 13488783350.0, 40695.0, '电子科技大学成都学院', '网络安全', '硕士', '511302198711230010', 32104.0, 11.0, 30.0, '城镇', '成都市锦江区橡树林路66号7栋1单元2305', '成都市锦江区橡树林路66号7栋1单元2305', '6236683800000151077', '', 0.0, '成都', '四川', '省内', '', '', '', '0年0个月0天', '个人原因', '同事/上级相处', '不认可直属上级，无法忍受直属上级脾气', '', '', '', '', '', '']
+2018-01-08 11:09:55,842 - BasePage - INFO - table.row_values() [3.0, '向源', 'GS0746', '小洋', 'qingtian', '男', '汉', '党员', '未婚', 42998.0, '', '架构师', '软件研发部', '软件研发部', 'ERP项目组', '已离职', 18210184572.0, 413894872.0, '姚尧', 13488783350.0, 40695.0, '电子科技大学成都学院', '网络安全', '硕士', '511302198711230010', 32104.0, 11.0, 30.0, '城镇', '成都市锦江区橡树林路66号7栋1单元2305', '成都市锦江区橡树林路66号7栋1单元2305', '6236683800000151077', '', 0.0, '成都', '四川', '省内', '', '', '', '0年0个月0天', '个人原因', '同事/上级相处', '不认可直属上级，无法忍受直属上级脾气', '', '', '', '', '', '']

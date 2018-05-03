@@ -1,0 +1,47 @@
+2018-01-03 13:58:12,303 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-03 13:58:12,303 - BrowserEngine - INFO - The test server url is: http://localhost:8090/#/login?ehr
+2018-01-03 13:58:18,471 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-03 13:58:18,471 - BrowserEngine - INFO - The test server url is: http://localhost:8090/#/login?ehr
+2018-01-03 13:58:22,648 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-03 13:58:23,338 - BrowserEngine - INFO - Open url: http://localhost:8090/#/login?ehr
+2018-01-03 13:58:23,358 - BrowserEngine - INFO - Maximize the current window
+2018-01-03 13:58:23,368 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-03 13:58:23,408 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-03 13:58:23,469 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-03 13:58:23,489 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-03 13:58:23,519 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-03 13:58:23,539 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-03 13:58:23,769 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-03 13:58:28,839 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/div 
+2018-01-03 13:58:29,089 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-03 13:58:29,109 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/ul/li[3] 
+2018-01-03 13:58:41,690 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-03 13:58:41,690 - BrowserEngine - INFO - The test server url is: http://localhost:8090/#/login?ehr
+2018-01-03 13:58:45,930 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-03 13:58:46,599 - BrowserEngine - INFO - Open url: http://localhost:8090/#/login?ehr
+2018-01-03 13:58:46,619 - BrowserEngine - INFO - Maximize the current window
+2018-01-03 13:58:46,630 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-03 13:58:46,670 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-03 13:58:46,720 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-03 13:58:46,740 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-03 13:58:46,779 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-03 13:58:46,789 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-03 13:58:47,059 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-03 13:58:52,290 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/div 
+2018-01-03 13:58:52,881 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-03 13:58:52,937 - BasePage - INFO - Had find the element ' 组织架构 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/ul/li[3] 
+2018-01-03 13:58:53,517 - BasePage - INFO - The element ' 组织架构 ' was clicked.
+2018-01-03 13:58:53,858 - BasePage - INFO - Had find the element ' 国盛天丰 ' successful by xpath via value: .//*[@id='tab-GS'] 
+2018-01-03 13:58:54,098 - BasePage - INFO - The element ' 国盛天丰 ' was clicked.
+2018-01-03 13:58:54,128 - BasePage - INFO - Had find the element ' 财务部 ' successful by xpath via value: .//*[@id='pane-GS']/div/div[1]/div/span[2]/span[1]/span 
+2018-01-03 13:58:54,368 - BasePage - INFO - The element ' 财务部 ' was clicked.
+2018-01-03 13:58:54,378 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pane-GS']/div/div[1]/div/span[2]/span[2]/i 
+2018-01-03 13:58:54,618 - BasePage - INFO - The element '  ' was clicked.
+2018-01-03 13:58:54,628 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[1]/div/div/input 
+2018-01-03 13:58:54,657 - BasePage - INFO - Had type ' 财务部111 ' in inputBox
+2018-01-03 13:58:54,687 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[2]/div/div/div[1]/input 
+2018-01-03 13:58:54,947 - BasePage - INFO - The element '  ' was clicked.
+2018-01-03 13:58:55,388 - BasePage - INFO - Had find the element ' 国盛天丰 ' successful by xpath via value: html/body/div[2]/div[1]/div[1]/ul/li[2]/span 
+2018-01-03 13:58:55,618 - BasePage - INFO - The element ' 国盛天丰 ' was clicked.
+2018-01-03 13:59:50,599 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[3]/div/div/div[1]/span/span/i 
+2018-01-03 13:59:51,859 - BasePage - INFO - The element '  ' was clicked.

@@ -1,0 +1,6 @@
+2018-01-17 14:16:00,565 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-17 14:16:00,565 - BrowserEngine - INFO - The test server url is: http://ehrtest.source3g.com/auth//#/login?ehr
+2018-01-17 14:16:04,896 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-17 14:16:11,899 - BrowserEngine - INFO - Open url: http://ehrtest.source3g.com/auth//#/login?ehr
+2018-01-17 14:16:11,937 - BrowserEngine - INFO - Maximize the current window
+2018-01-17 14:16:11,948 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

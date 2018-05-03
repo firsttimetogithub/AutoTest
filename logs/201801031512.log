@@ -1,0 +1,38 @@
+2018-01-03 15:12:08,098 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-03 15:12:08,098 - BrowserEngine - INFO - The test server url is: http://localhost:8090/#/login?ehr
+2018-01-03 15:12:12,322 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-03 15:12:13,023 - BrowserEngine - INFO - Open url: http://localhost:8090/#/login?ehr
+2018-01-03 15:12:13,062 - BrowserEngine - INFO - Maximize the current window
+2018-01-03 15:12:13,062 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-03 15:12:13,122 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-03 15:12:13,163 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-03 15:12:13,183 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-03 15:12:13,213 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-03 15:12:13,243 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-03 15:12:13,503 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-03 15:12:17,934 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/div 
+2018-01-03 15:12:18,184 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-03 15:12:18,543 - BasePage - INFO - Had find the element ' 组织架构 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/ul/li[3] 
+2018-01-03 15:12:19,174 - BasePage - INFO - The element ' 组织架构 ' was clicked.
+2018-01-03 15:12:19,323 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='tab-GS'] 
+2018-01-03 15:12:19,563 - BasePage - INFO - The element ' 国盛天丰 ' was clicked.
+2018-01-03 15:12:19,573 - BasePage - INFO - Had find the element ' 财务部 ' successful by xpath via value: .//*[@id='pane-GS']/div/div[1]/div/span[2]/span[1]/span 
+2018-01-03 15:12:19,793 - BasePage - INFO - The element ' 财务部 ' was clicked.
+2018-01-03 15:12:19,813 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pane-GS']/div/div[1]/div/span[2]/span[2]/i 
+2018-01-03 15:12:20,043 - BasePage - INFO - The element '  ' was clicked.
+2018-01-03 15:12:20,063 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[1]/div/div/input 
+2018-01-03 15:12:20,073 - BasePage - INFO - Clear text in input box before typing.
+2018-01-03 15:12:20,084 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[1]/div/div/input 
+2018-01-03 15:12:20,114 - BasePage - INFO - Had type ' 商务部测试 ' in inputBox
+2018-01-03 15:12:20,164 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[2]/div/div/div[1]/span/span/i 
+2018-01-03 15:12:20,404 - BasePage - INFO - The element '  ' was clicked.
+2018-01-03 15:12:21,944 - BasePage - INFO - Had find the element ' 国盛天丰 ' successful by xpath via value: html/body/div[2]/div[1]/div[1]/ul/li[2]/span 
+2018-01-03 15:12:22,164 - BasePage - INFO - The element ' 国盛天丰 ' was clicked.
+2018-01-03 15:12:22,184 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[6]/div/div/span 
+2018-01-03 15:12:22,414 - BasePage - INFO - The element '  ' was clicked.
+2018-01-03 15:12:22,434 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[7]/div/div/span 
+2018-01-03 15:12:22,674 - BasePage - INFO - The element '  ' was clicked.
+2018-01-03 15:12:22,704 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[8]/div/div/textarea 
+2018-01-03 15:12:22,755 - BasePage - INFO - Had type ' 测试是否能使用 ' in inputBox
+2018-01-03 15:12:22,805 - BasePage - INFO - Had find the element ' 提交 ' successful by xpath via value: .//*[@id='app']/div/div[3]/div/div[2]/div[2]/div[2]/div/form/div[9]/div/button[1] 
+2018-01-03 15:12:23,025 - BasePage - INFO - The element ' 提交 ' was clicked.

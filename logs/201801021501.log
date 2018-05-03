@@ -1,0 +1,6 @@
+2018-01-02 15:01:49,497 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-02 15:01:49,497 - BrowserEngine - INFO - The test server url is: http://ehrtest.source3g.com/humres/
+2018-01-02 15:01:53,653 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-02 15:01:56,575 - BrowserEngine - INFO - Open url: http://ehrtest.source3g.com/humres/
+2018-01-02 15:01:56,605 - BrowserEngine - INFO - Maximize the current window
+2018-01-02 15:01:56,615 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

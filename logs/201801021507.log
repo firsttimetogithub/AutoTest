@@ -1,0 +1,19 @@
+2018-01-02 15:07:57,553 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-02 15:07:57,553 - BrowserEngine - INFO - The test server url is: http://localhost:8090/#/login?ehr
+2018-01-02 15:08:01,816 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-02 15:08:02,437 - BrowserEngine - INFO - Open url: http://localhost:8090/#/login?ehr
+2018-01-02 15:08:02,467 - BrowserEngine - INFO - Maximize the current window
+2018-01-02 15:08:02,467 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-02 15:08:02,516 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-02 15:08:02,566 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-02 15:08:02,586 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-02 15:08:02,617 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-02 15:08:02,637 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-02 15:08:02,897 - BasePage - INFO - The element ' 登 录 ' was clicked.
+2018-01-02 15:08:04,147 - BasePage - INFO - Had find the element ' 人员组织管理 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/div 
+2018-01-02 15:08:04,387 - BasePage - INFO - The element ' 人员组织管理 ' was clicked.
+2018-01-02 15:08:04,407 - BasePage - INFO - Had find the element ' 组织架构 ' successful by xpath via value: .//*[@id='app']/div/div[2]/ul/li[3]/ul/li[3] 
+2018-01-02 15:08:05,016 - BasePage - INFO - The element ' 组织架构 ' was clicked.
+2018-01-02 15:08:08,757 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='tab-GS'] 
+2018-01-02 15:08:08,997 - BasePage - INFO - The element ' 国盛天丰 ' was clicked.
+2018-01-02 15:08:09,028 - BasePage - INFO - Had find the element ' 加载中... ' successful by xpath via value: .//*[@id='pane-GS']/div/div[1]/div/span[2]/span[1]/span 

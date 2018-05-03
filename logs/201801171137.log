@@ -1,0 +1,16 @@
+2018-01-17 11:37:53,517 - BrowserEngine - INFO - You had select Firefox browser.
+2018-01-17 11:37:53,518 - BrowserEngine - INFO - The test server url is: http://ehrtest.source3g.com/auth//#/login?ehr
+2018-01-17 11:37:57,736 - BrowserEngine - INFO - Starting firefox browser.
+2018-01-17 11:38:03,035 - BrowserEngine - INFO - Open url: http://ehrtest.source3g.com/auth//#/login?ehr
+2018-01-17 11:38:03,060 - BrowserEngine - INFO - Maximize the current window
+2018-01-17 11:38:03,065 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-01-17 11:38:12,000 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-17 11:38:12,000 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[1]/div/div[1]/input 
+2018-01-17 11:38:12,042 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-17 11:38:12,042 - BasePage - INFO - Had type ' liliuyang ' in inputBox
+2018-01-17 11:38:12,073 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-17 11:38:12,073 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[2]/div/div[1]/input 
+2018-01-17 11:38:12,100 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-17 11:38:12,100 - BasePage - INFO - Had type ' 888888 ' in inputBox
+2018-01-17 11:38:12,118 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
+2018-01-17 11:38:12,118 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: .//*[@id='app']/div/div[2]/form/div[3]/button 
